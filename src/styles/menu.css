@@ -1,0 +1,18 @@
+/* Estilo dos links */
+.menu {
+	display: block;
+	margin: 10px 0;
+	text-decoration: none;
+	font-size: 20px;
+	color: #333;
+	background-color: #ffcc00;
+	padding: 10px 20px;
+	border-radius: 8px;
+	border: 2px solid #000;
+	font-family: 'Press Start 2P', cursive;
+	transition: transform 0.2s;
+}
+
+.menu:hover {
+	transform: scale(1.1);
+}
